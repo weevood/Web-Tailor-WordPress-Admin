@@ -11,4 +11,4 @@ Customize The WordPress Admin User Interface
 - Update & Nags & Notifications
 
 ## Use :
-Add <code>require_once dirname(__FILE__) . '/admin.php';<code> in your functions.php file.
+Add <code>require_once dirname(__FILE__) . '/admin.php';</code> in your functions.php file.
