@@ -5,8 +5,6 @@
  *
  * Customize The WordPress Admin User Interface 
  *
- * @category   CategoryName
- * @package    PackageName
  * @author     Thibaud Alt <thibaud@we-studio.ch>
  * @copyright  2015 - Thibaud Alt
  * @version    0.9
